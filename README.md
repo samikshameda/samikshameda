@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samiksha Meda</h1>
+<h1 align="center">Hi 👋, I'm Samiksha</h1>
 <h3 align="center">Data Practitioner • Analytics Explorer • Driven by Curiosity </h3>
 
 <p align="center">
