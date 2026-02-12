@@ -4,7 +4,7 @@
 <p align="center">
 📍 Based in Ann Arbor, Michigan <br>
 🌍 Originally from Dubai, UAE <br>
-🎓 M.S. Data Science – University of Michigan
+🎓 M.S. Data Science – University of Michigan, Ann Arbor
 </p>
 
 ---
